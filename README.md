@@ -2,7 +2,7 @@
 # fiuba-7507-TP2-2doCuatri2018
 
 # Jugar
-Para poder correr la aplicacion, además de tener instalado Java 8 y ANT, de debe:
+Para poder correr la aplicacion, además de tener instalado Java 8 y ANT, se debe:
 
 1. Clonar el repositorio
 ```
